@@ -1,1 +1,1 @@
-# linear-algebra-julia
+# 宮武勇登著『Juliaで理解を深める線形代数』の演習問題の解答
